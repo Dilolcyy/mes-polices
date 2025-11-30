@@ -1,0 +1,64 @@
+/* ----- MarkForMC Narrow ----- */
+@font-face {
+  font-family: "MarkForMC Narrow";
+  src: url("https://cdn.jsdelivr.net/gh/TON_USER/TON_REPO@main/MarkForMCNarrowW00-Regular.woff2")
+       format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MarkForMC Narrow";
+  src: url("https://cdn.jsdelivr.net/gh/TON_USER/TON_REPO@main/MarkForMCNarrowW00-Medium.woff2")
+       format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MarkForMC Narrow";
+  src: url("https://cdn.jsdelivr.net/gh/TON_USER/TON_REPO@main/MarkForMCNarrowW00-Bold.woff2")
+       format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* ----- MarkForMC Normal width ----- */
+@font-face {
+  font-family: "MarkForMC";
+  src: url("https://cdn.jsdelivr.net/gh/TON_USER/TON_REPO@main/MarkForMC-Lt.woff2")
+       format("woff2");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MarkForMC";
+  src: url("https://cdn.jsdelivr.net/gh/TON_USER/TON_REPO@main/MarkForMC.woff2")
+       format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MarkForMC";
+  src: url("https://cdn.jsdelivr.net/gh/TON_USER/TON_REPO@main/MarkForMC-Med.woff2")
+       format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MarkForMC";
+  src: url("https://cdn.jsdelivr.net/gh/TON_USER/TON_REPO@main/MarkForMC-Bold.woff2")
+       format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
