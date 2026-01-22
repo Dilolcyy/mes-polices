@@ -1,3 +1,97 @@
+/* ===== Apercu ===== */
+
+@font-face {
+  font-family: "Apercu";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Apercu-Light.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Apercu";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Apercu-LightItalic.woff2") format("woff2");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Apercu";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Apercu-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Apercu";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Apercu-Italic.woff2") format("woff2");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Apercu";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Apercu-Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Apercu";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Apercu-MediumItalic.woff2") format("woff2");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Apercu";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Apercu-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Apercu";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Apercu-BoldItalic.woff2") format("woff2");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Apercu";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Apercu-Black.woff2") format("woff2");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Apercu";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Apercu-BlackItalic.woff2") format("woff2");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+
+/* ===== Apercu Mono ===== */
+
+@font-face {
+  font-family: "Apercu Mono";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Apercu-Mono.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+
 /* ----- MarkForMC Narrow ----- */
 @font-face {
   font-family: "MarkForMC Narrow";
