@@ -157,3 +157,11 @@
   font-display: swap;
 }
 /* ----- MarkForMC Narrow ----- */
+
+/* ----- TTNormsProVariable ----- */
+
+@font-face {
+  font-family: "TTNormsProVariable";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/TTNormsProVariable.woff2")
+       format("woff2");
+}
