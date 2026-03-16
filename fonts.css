@@ -165,3 +165,101 @@
   src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/TTNormsProVariable.woff2")
        format("woff2");
 }
+
+/* ===== Marianne ===== */
+
+@font-face {
+  font-family: "Marianne";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Marianne-Thin.woff2") format("woff2");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Marianne";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Marianne-Thin_Italic.woff2") format("woff2");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Marianne";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Marianne-Light.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Marianne";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Marianne-Light_Italic.woff2") format("woff2");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Marianne";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Marianne-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Marianne";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Marianne-Regular_Italic.woff2") format("woff2");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Marianne";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Marianne-Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Marianne";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Marianne-Medium_Italic.woff2") format("woff2");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Marianne";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Marianne-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Marianne";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Marianne-Bold_Italic.woff2") format("woff2");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Marianne";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Marianne-ExtraBold.woff2") format("woff2");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Marianne";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Marianne-ExtraBold_Italic.woff2") format("woff2");
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
