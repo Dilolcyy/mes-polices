@@ -95,8 +95,7 @@
 /* ----- MarkForMC Narrow ----- */
 @font-face {
   font-family: "MarkForMC Narrow";
-  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/MarkForMCNarrowW00-Regular.woff2")
-       format("woff2");
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/MarkForMCNarrowW00-Regular.woff2") format("woff2");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -104,8 +103,7 @@
 
 @font-face {
   font-family: "MarkForMC Narrow";
-  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/MarkForMCNarrowW00-Medium.woff2")
-       format("woff2");
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/MarkForMCNarrowW00-Medium.woff2") format("woff2");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
@@ -113,8 +111,7 @@
 
 @font-face {
   font-family: "MarkForMC Narrow";
-  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/MarkForMCNarrowW00-Bold.woff2")
-       format("woff2");
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/MarkForMCNarrowW00-Bold.woff2") format("woff2");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
@@ -123,8 +120,7 @@
 /* ----- MarkForMC Normal width ----- */
 @font-face {
   font-family: "MarkForMC";
-  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/MarkForMC-Lt.woff2")
-       format("woff2");
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/MarkForMC-Lt.woff2") format("woff2");
   font-weight: 300;
   font-style: normal;
   font-display: swap;
@@ -132,8 +128,7 @@
 
 @font-face {
   font-family: "MarkForMC";
-  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/MarkForMC.woff2")
-       format("woff2");
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/MarkForMC.woff2") format("woff2");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -141,8 +136,7 @@
 
 @font-face {
   font-family: "MarkForMC";
-  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/MarkForMC-Med.woff2")
-       format("woff2");
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/MarkForMC-Med.woff2") format("woff2");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
@@ -150,20 +144,17 @@
 
 @font-face {
   font-family: "MarkForMC";
-  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/MarkForMC-Bold.woff2")
-       format("woff2");
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/MarkForMC-Bold.woff2") format("woff2");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
 }
-/* ----- MarkForMC Narrow ----- */
 
 /* ----- TTNormsProVariable ----- */
 
 @font-face {
   font-family: "TTNormsProVariable";
-  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/TTNormsProVariable.woff2")
-       format("woff2");
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/TTNormsProVariable.woff2") format("woff2");
 }
 
 /* ===== Marianne ===== */
@@ -260,6 +251,137 @@
   font-family: "Marianne";
   src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Marianne-ExtraBold_Italic.woff2") format("woff2");
   font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+
+
+/* ===== GT Walsheim ===== */
+
+@font-face {
+  font-family: "GT Walsheim";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/gt-walsheim-ultra-light-web.ttf") format("truetype");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Walsheim";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/gt-walsheim-ultra-light-oblique-web.ttf") format("truetype");
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Walsheim";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/gt-walsheim-thin-web.ttf") format("truetype");
+  font-weight: 250;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Walsheim";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/gt-walsheim-thin-oblique-web.ttf") format("truetype");
+  font-weight: 250;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Walsheim";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/gt-walsheim-light-web.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Walsheim";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/gt-walsheim-light-oblique-web.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Walsheim";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/gt-walsheim-regular-web.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Walsheim";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/gt-walsheim-regular-oblique-web.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Walsheim";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/gt-walsheim-medium-web.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Walsheim";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/gt-walsheim-medium-oblique-web.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Walsheim";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/gt-walsheim-bold-web.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Walsheim";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/gt-walsheim-bold-oblique-web.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Walsheim";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/gt-walsheim-black-web.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Walsheim";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/gt-walsheim-black-oblique-web.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Walsheim";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/gt-walsheim-ultra-bold-web.ttf") format("truetype");
+  font-weight: 950;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Walsheim";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/gt-walsheim-ultra-bold-oblique-web.ttf") format("truetype");
+  font-weight: 950;
   font-style: italic;
   font-display: swap;
 }
