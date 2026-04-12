@@ -1,3 +1,40 @@
+@font-face {
+    font-family: "Trustpilot-Sans";
+    font-display: swap;
+    font-style: normal;
+    font-weight: 300;
+    src: url("https://cdn.trustpilot.net/brand-assets/5.3.0/fonts/Trustpilot-Sans.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "Trustpilot-Sans";
+    font-display: swap;
+    font-style: normal;
+    font-weight: 450;
+    src: url("https://cdn.trustpilot.net/brand-assets/5.3.0/fonts/Trustpilot-Sans.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "Trustpilot-Sans";
+    font-display: swap;
+    font-weight: 575;
+    src: url("https://cdn.trustpilot.net/brand-assets/5.3.0/fonts/Trustpilot-Sans.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "Trustpilot-Sans";
+    font-display: swap;
+    font-weight: 650;
+    src: url("https://cdn.trustpilot.net/brand-assets/5.3.0/fonts/Trustpilot-Sans.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "Trustpilot-Sans";
+    font-display: swap;
+    font-weight: 800;
+    src: url("https://cdn.trustpilot.net/brand-assets/5.3.0/fonts/Trustpilot-Display-Extrabold.woff2") format("woff2");
+}
+
 /* ===== Apercu ===== */
 
 @font-face {
@@ -384,43 +421,5 @@
   font-weight: 950;
   font-style: italic;
   font-display: swap;
-}
-
-
-@font-face {
-    font-family: "Trustpilot-Sans";
-    font-display: swap;
-    font-style: normal;
-    font-weight: 300;
-    src: url("https://cdn.trustpilot.net/brand-assets/5.3.0/fonts/Trustpilot-Sans.woff2") format("woff2");
-}
-
-@font-face {
-    font-family: "Trustpilot-Sans";
-    font-display: swap;
-    font-style: normal;
-    font-weight: 450;
-    src: url("https://cdn.trustpilot.net/brand-assets/5.3.0/fonts/Trustpilot-Sans.woff2") format("woff2");
-}
-
-@font-face {
-    font-family: "Trustpilot-Sans";
-    font-display: swap;
-    font-weight: 575;
-    src: url("https://cdn.trustpilot.net/brand-assets/5.3.0/fonts/Trustpilot-Sans.woff2") format("woff2");
-}
-
-@font-face {
-    font-family: "Trustpilot-Sans";
-    font-display: swap;
-    font-weight: 650;
-    src: url("https://cdn.trustpilot.net/brand-assets/5.3.0/fonts/Trustpilot-Sans.woff2") format("woff2");
-}
-
-@font-face {
-    font-family: "Trustpilot-Sans";
-    font-display: swap;
-    font-weight: 800;
-    src: url("https://cdn.trustpilot.net/brand-assets/5.3.0/fonts/Trustpilot-Display-Extrabold.woff2") format("woff2");
 }
 
