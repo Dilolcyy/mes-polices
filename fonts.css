@@ -1,3 +1,149 @@
+/* ===== Galano Grotesque ===== */
+
+@font-face {
+  font-family: "Galano Grotesque";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/GalanoGrotesque-ExtraLight.woff2") format("woff2");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Galano Grotesque";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/GalanoGrotesque-ExtraLightItalic.woff2") format("woff2");
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Galano Grotesque";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/GalanoGrotesque-Light.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Galano Grotesque";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/GalanoGrotesque-LightItalic.woff2") format("woff2");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Galano Grotesque";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/GalanoGrotesque-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Galano Grotesque";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/GalanoGrotesque-Italic.woff2") format("woff2");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Galano Grotesque";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/GalanoGrotesque-Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Galano Grotesque";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/GalanoGrotesque-MediumItalic.woff2") format("woff2");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Galano Grotesque";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/GalanoGrotesque-SemiBold.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Galano Grotesque";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/GalanoGrotesque-SemiBoldItalic.woff2") format("woff2");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Galano Grotesque";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/GalanoGrotesque-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Galano Grotesque";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/GalanoGrotesque-BoldItalic.woff2") format("woff2");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Galano Grotesque";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/GalanoGrotesque-ExtraBold.woff2") format("woff2");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Galano Grotesque";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/GalanoGrotesque-ExtraBoldItalic.woff2") format("woff2");
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Galano Grotesque";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/GalanoGrotesque-Heavy.woff2") format("woff2");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Galano Grotesque";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/GalanoGrotesque-HeavyItalic.woff2") format("woff2");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Galano Grotesque";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/GalanoGrotesque-Black.woff2") format("woff2");
+  font-weight: 950;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Galano Grotesque";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/GalanoGrotesque-BlackItalic.woff2") format("woff2");
+  font-weight: 950;
+  font-style: italic;
+  font-display: swap;
+}
+/* =====  ===== */
 @font-face {
   font-family: "Komparzon Mono";
   src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/komparzon_mono.woff2") format("woff2");
