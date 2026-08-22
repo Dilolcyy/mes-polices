@@ -1,3 +1,28 @@
+/* ===== Objective ===== */
+@font-face {
+  font-family: "Objective";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Objective-400.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Objective";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Objective-500.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Objective";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Objective-700.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
 /* ===== Galano Grotesque ===== */
 @font-face {
   font-family: "Galano Grotesque";
