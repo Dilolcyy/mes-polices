@@ -1,7 +1,43 @@
 /* ===== Objective ===== */
+
+/* Thin — 100 */
 @font-face {
   font-family: "Objective";
-  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Objective-400.woff2") format("woff2");
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Objective-Thin.woff2") format("woff2");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Objective";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Objective-Thin-Italic.woff2") format("woff2");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Light — 300 */
+@font-face {
+  font-family: "Objective";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Objective-Light.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Objective";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Objective-Light-Italic.woff2") format("woff2");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Regular — 400 */
+@font-face {
+  font-family: "Objective";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Objective-Regular.woff2") format("woff2");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -9,7 +45,16 @@
 
 @font-face {
   font-family: "Objective";
-  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Objective-500.woff2") format("woff2");
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Objective-Italic.woff2") format("woff2");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Medium — 500 */
+@font-face {
+  font-family: "Objective";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Objective-Medium.woff2") format("woff2");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
@@ -17,9 +62,77 @@
 
 @font-face {
   font-family: "Objective";
-  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Objective-700.woff2") format("woff2");
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Objective-Medium-Italic.woff2") format("woff2");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Bold — 700 */
+@font-face {
+  font-family: "Objective";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Objective-Bold.woff2") format("woff2");
   font-weight: 700;
   font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Objective";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Objective-Bold-Italic.woff2") format("woff2");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* ExtraBold — 800 */
+@font-face {
+  font-family: "Objective";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Objective-ExtraBold.woff2") format("woff2");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Objective";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Objective-ExtraBold-Italic.woff2") format("woff2");
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Black — 900 */
+@font-face {
+  font-family: "Objective";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Objective-Black.woff2") format("woff2");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Objective";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Objective-Black-Italic.woff2") format("woff2");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Super — 950 */
+@font-face {
+  font-family: "Objective";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Objective-Super.woff2") format("woff2");
+  font-weight: 950;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Objective";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Objective-Super-Italic.woff2") format("woff2");
+  font-weight: 950;
+  font-style: italic;
   font-display: swap;
 }
 
