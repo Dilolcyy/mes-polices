@@ -1,3 +1,96 @@
+/* ===== Madani Arabic ===== */
+
+/* Thin — 100 */
+@font-face {
+  font-family: "Madani Arabic";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Madani%20Arabic%20Thin.woff2") format("woff2");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* ExtraLight — 200 */
+@font-face {
+  font-family: "Madani Arabic";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Madani%20Arabic%20ExtraLight.woff2") format("woff2");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Light — 300 */
+@font-face {
+  font-family: "Madani Arabic";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Madani%20Arabic%20Light.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Regular — 400 */
+@font-face {
+  font-family: "Madani Arabic";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Madani%20Arabic%20Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Medium — 500 */
+@font-face {
+  font-family: "Madani Arabic";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Madani%20Arabic%20Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* SemiBold — 600 */
+@font-face {
+  font-family: "Madani Arabic";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Madani%20Arabic%20SemiBold.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Bold — 700 */
+@font-face {
+  font-family: "Madani Arabic";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Madani%20Arabic%20Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* ExtraBold — 800 */
+@font-face {
+  font-family: "Madani Arabic";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Madani%20Arabic%20ExtraBold.woff2") format("woff2");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Black — 900 */
+@font-face {
+  font-family: "Madani Arabic";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Madani%20Arabic%20Black.woff2") format("woff2");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Variable — 100–900 */
+@font-face {
+  font-family: "Madani Arabic Variable";
+  src: url("https://cdn.jsdelivr.net/gh/Dilolcyy/mes-polices@main/Madani%20Arabic%20Variable.woff2") format("woff2");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+
 /* ===== Objective ===== */
 
 /* Thin — 100 */
